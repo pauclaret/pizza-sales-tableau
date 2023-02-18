@@ -20,15 +20,15 @@ The notebooks folder contains one Jupyter Notebook:
 ## Visualizations 📊
 Tableau was used to create the following visualizations:
 
-- Sales by Months: This line chart shows the total sales by month, allowing us to see any seasonal trends and make informed decisions about menu offerings and promotions.
-- Sales by Weekday: This bar chart shows the frequency of orders by weekday, allowing us to see the busiest days of the week for the restaurant and make informed decisions about staffing levels.
-- Sales by Hours: This heatmap shows the frequency of orders by hour of the day and day of the week, allowing us to see the busiest times of the day and make informed decisions about staffing levels.
-- Sales by Pizza Category: This donut chart shows the breakdown of orders by pizza category, allowing us to see the most popular categories and make informed decisions about menu offerings.
-- Sales by Type of Pizza: This stacked bar chart shows the breakdown of orders by type of pizza, allowing us to see the most popular types of pizza and make informed decisions about menu offerings.
-- Sales by Pizza Size: This bubble chart shows the breakdown of orders by pizza size and price, allowing us to see the most popular sizes and make informed decisions about pricing.
-- Quantity Ordered vs Unit Price: This scatter plot shows the relationship between the quantity ordered and the unit price, allowing us to see any patterns in the data and make informed decisions about pricing and promotions.
-- Top 10 Most Ordered Ingredients: This horizontal bar chart shows the top 10 most ordered ingredients, allowing us to see the most popular ingredients and make informed decisions about ingredient sourcing and menu offerings.
-- Less 10 Ordered Ingredients: This horizontal bar chart shows the least 10 ordered ingredients, allowing us to see the least popular ingredients and make informed decisions about ingredient sourcing and menu offerings.
+- <b>Sales by Months</b>: This line chart shows the total sales by month, allowing us to see any seasonal trends and make informed decisions about menu offerings and promotions.
+- <b>Sales by Weekday</b>: This bar chart shows the frequency of orders by weekday, allowing us to see the busiest days of the week for the restaurant and make informed decisions about staffing levels.
+- <b>Sales by Hours</b>: This heatmap shows the frequency of orders by hour of the day and day of the week, allowing us to see the busiest times of the day and make informed decisions about staffing levels.
+- <b>Sales by Pizza Category</b>: This donut chart shows the breakdown of orders by pizza category, allowing us to see the most popular categories and make informed decisions about menu offerings.
+- <b>Sales by Type of Pizza</b>: This stacked bar chart shows the breakdown of orders by type of pizza, allowing us to see the most popular types of pizza and make informed decisions about menu offerings.
+- <b>Sales by Pizza Size</b>: This bubble chart shows the breakdown of orders by pizza size and price, allowing us to see the most popular sizes and make informed decisions about pricing.
+- <b>Quantity Ordered vs Unit Price</b>: This scatter plot shows the relationship between the quantity ordered and the unit price, allowing us to see any patterns in the data and make informed decisions about pricing and promotions.
+- <b>Top 10 Most Ordered Ingredients</b>: This horizontal bar chart shows the top 10 most ordered ingredients, allowing us to see the most popular ingredients and make informed decisions about ingredient sourcing and menu offerings.
+- <b>Less 10 Ordered Ingredient</b>s: This horizontal bar chart shows the least 10 ordered ingredients, allowing us to see the least popular ingredients and make informed decisions about ingredient sourcing and menu offerings.
 
 ## Conclusion 🍕
 The goal of this project is to provide the pizza restaurant with a better understanding of customer behavior and pizza preferences. By visualizing the data in an interactive dashboard, the restaurant can make informed decisions about menu offerings, staffing levels, and ingredient sourcing.
