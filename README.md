@@ -6,16 +6,16 @@ This project explores data from a pizza restaurant using Tableau to uncover insi
 ## Data 🔢
 The data folder contains three elements:
 
-- datamodel_pizzasales.xlsx: This is the original Excel file downloaded from Kaggle that contains raw data about orders made at the pizza restaurant. The data covers a period of one year and includes information about each order, such as the type of pizza ordered, the time of the order, and the price paid.
-- pizza_sales.csv: This CSV file was created after cleaning the data using Pandas. It contains information about pizza orders, including the type of pizza ordered, the time of the order, and the price paid.
-- ingredients.csv: This CSV file was created after cleaning the data using Pandas. It contains specific information about the ingredients used in the pizzas, such as the name, type, and category.
+- <a href="https://github.com/pauclaret/pizza-sales-tableau/blob/main/data/datamodel_pizzasales.xlsx">datamodel_pizzasales.xlsx</a>: This is the original Excel file downloaded from Kaggle that contains raw data about orders made at the pizza restaurant. The data covers a period of one year and includes information about each order, such as the type of pizza ordered, the time of the order, and the price paid.
+- <a href="https://github.com/pauclaret/pizza-sales-tableau/blob/main/data/pizza_sales.csv">pizza_sales.csv</a>: This CSV file was created after cleaning the data using Pandas. It contains information about pizza orders, including the type of pizza ordered, the time of the order, and the price paid.
+- <a href="https://github.com/pauclaret/pizza-sales-tableau/blob/main/data/ingredients.csv">ingredients.csv</a>: This CSV file was created after cleaning the data using Pandas. It contains specific information about the ingredients used in the pizzas, such as the name, type, and category.
 
 Both pizza_sales.csv and ingredients.csv were created from the original datamodel_pizzasales.xlsx file. The cleaned data in CSV format was used for the visualizations in this project using Tableau.
 
 ## Notebooks 📓
 The notebooks folder contains one Jupyter Notebook:
 
-- cleaning.ipynb: This notebook contains the code used to clean the datamodel_pizzasales.xlsx file. The cleaning process involved removing duplicates, handling missing values, and converting data types as needed. The result of the cleaning process was two CSV files: pizza_sales.csv, which contains information about pizza orders, and ingredients.csv, which contains information about the ingredients used in the pizzas. The cleaned data in CSV format was used for the visualizations in this project using Tableau.
+- <a href="https://github.com/pauclaret/pizza-sales-tableau/blob/main/notebooks/cleaning.ipynb">cleaning.ipynb</a>: This notebook contains the code used to clean the datamodel_pizzasales.xlsx file. The cleaning process involved removing duplicates, handling missing values, and converting data types as needed. The result of the cleaning process was two CSV files: pizza_sales.csv, which contains information about pizza orders, and ingredients.csv, which contains information about the ingredients used in the pizzas. The cleaned data in CSV format was used for the visualizations in this project using Tableau.
 
 ## Visualizations 📊
 Tableau was used to create the following visualizations:
